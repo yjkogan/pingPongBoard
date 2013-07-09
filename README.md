@@ -1,0 +1,2 @@
+# pingPongBoard
+### a Sails application
